@@ -1,0 +1,36 @@
+.input__container {
+  position: relative;
+  margin-bottom: 30px;
+  @include r(1500) {
+    margin-bottom: 15px;
+  }
+  img {
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+  }
+  input,select {
+    display: block;
+    width: 100%;
+    padding: 20px;
+    font-family: $main-font;
+    height: 70px;
+    border-radius: 0;
+    background-color: $white;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    color: #04040E50;
+    @include placeholder {
+      font-weight: 300;
+      font-size: 20px;
+      line-height: 24px;
+      color: #04040E50;
+    }
+  }
+}
+
+.text-error {
+  display: none;
+}

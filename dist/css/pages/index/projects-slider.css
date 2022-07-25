@@ -1,0 +1,19 @@
+.projects-slider__secton {
+  position: relative;
+}
+
+.project-slider__item {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.project-slider__img {
+  width: 67%;
+}
+
+.project-slider__info {
+  width: 33%;
+}

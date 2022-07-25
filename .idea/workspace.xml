@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b57128e6-491c-410e-8020-3ab4e7aea53b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Icons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Icons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-BoldItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-BoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-BoldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-Italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-Italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-Italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-LightItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-LightItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-LightItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-SemiBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-SemiBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-SemiBold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-SemiBoldItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-SemiBoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-SemiBoldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-Thin.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-Thin.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-Thin.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-ThinItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-ThinItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/IvyMode-ThinItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/ivy/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/html/components/aside.njk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/html/components/breadcrumbs.njk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/html/components/footer.njk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/html/components/pagination.njk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/html/data/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/html/index.njk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/html/layouts/layout.njk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/html/modals/some-modal.njk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/i/icons/bookmark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/i/icons/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/i/icons/heart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/i/icons/inst.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/i/icons/left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/i/icons/right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/i/icons/telegram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/i/sprite/sprite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/i/sprite/symbol/sprite.symbol.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/contact.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/favicon/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/favicon/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/favicon/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/favicon/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/project1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/project2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/js/validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/base/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/base/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/common/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/common/_global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/common/_helpers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/common/_reset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/common/_without-js.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/components/_aside.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/components/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/components/_components.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/fonts/_fonts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/iconfont/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/icons/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/icons/_sprite.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/pages/_all-pages.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/pages/index/_contact-section.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/pages/index/_projects-slider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/pages/index/index-page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/lib.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/main.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/pages/index/projects-slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/pages/index/projects-slider.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/Icons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/Icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/Icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/Icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/Icons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/Montserrat/Montserrat-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/Montserrat/Montserrat-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/Montserrat/Montserrat-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-BoldItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-BoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-BoldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-Italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-Italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-Italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-LightItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-LightItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-LightItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-SemiBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-SemiBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-SemiBold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-SemiBoldItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-SemiBoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-SemiBoldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-Thin.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-Thin.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-Thin.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-ThinItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-ThinItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/IvyMode-ThinItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fonts/ivy/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/i/icons/bookmark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/i/icons/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/i/icons/heart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/i/icons/inst.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/i/icons/left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/i/icons/right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/i/icons/telegram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/i/sprite/sprite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/i/sprite/symbol/sprite.symbol.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/contact.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/contact.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/favicon/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/favicon/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/favicon/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/favicon/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/logo.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/project1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/project1.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/project2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/project2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/Наши услуги/Rectangle 18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/Наши услуги/Rectangle 32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/Наши услуги/contact.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/Наши услуги/logo kanso 1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/Наши услуги/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/Наши услуги/project1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/Наши услуги/project2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/lib.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/main.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/sass/base/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/sass/base/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/sass/common/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/sass/common/_global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/sass/common/_helpers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/sass/common/_reset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/sass/common/_seo.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/sass/common/_without-js.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/sass/components/_aside.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/sass/components/_breadcrumbs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/sass/components/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/sass/components/_components.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/sass/components/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/sass/components/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/sass/components/_modals.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/sass/fonts/_fonts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/sass/iconfont/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/sass/icons/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/sass/icons/_sprite.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/sass/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/sass/pages/_all-pages.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/sass/pages/index/_contact-section.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/sass/pages/index/_index-page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/sass/pages/index/_projects-slider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/sass/pages/index/index-page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/sass/pages/index/projects-slider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2CQoj1fINyuYDzCQCBfUILKvkMO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dist/js" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dist/js" />
+      <recent name="$PROJECT_DIR$/app/images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b57128e6-491c-410e-8020-3ab4e7aea53b" name="Changes" comment="" />
+      <created>1658744300484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658744300484</updated>
+      <workItem from="1658744302354" duration="11066000" />
+      <workItem from="1658764846560" duration="5343000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

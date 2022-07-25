@@ -1,0 +1,100 @@
+.aside-menu {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: $black;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 124px;
+  z-index: 99;
+  padding: 75px 40px 133px;
+  .logo {
+    display: none;
+  }
+  @include r(1500) {
+    width: 90px;
+    padding: 30px 20px 33px;
+  }
+  @include r(767) {
+    .logo {
+      display: inline-block;
+      width: 51px;
+    }
+    padding: 9px 16px;
+    bottom: auto;
+    right: 0;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+}
+
+
+.btn__burger {
+  padding: 0;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  span {
+    display: block;
+    height: 1px;
+    background-color: #fff;
+    margin-bottom: 8px;
+    &:nth-child(1) {
+      width: 44px;
+    }
+    &:nth-child(2) {
+      width: 24px;
+    }
+    &:nth-child(3) {
+      width: 35px;
+      margin-bottom: 0;
+    }
+  }
+  transition: 0.3s ease-in-out;
+  &:hover {
+    opacity: 0.8;
+  }
+  @include r(767) {
+    span {
+      margin-left: auto;
+    }
+  }
+}
+
+
+.social {
+  &__list {
+    position: relative;
+    width: 30px;
+    text-align: center;
+    @include r(767) {
+      display: none;
+    }
+    &:before {
+      content: '';
+      position: absolute;
+      height: 118px;
+      width: 1px;
+      background-color: $white;
+      left: 50%;
+      bottom: calc(100% + 20px);
+    }
+  }
+  &__item:not(:last-child) {
+    margin-bottom: 30px;
+  }
+  &__link {
+    color: $white;
+    font-size: 30px;
+    transition: 0.3s ease-in-out;
+    &:hover {
+      opacity: 0.8;
+    }
+    .icon-telegram {
+      font-size: 25.4px;
+    }
+  }
+}

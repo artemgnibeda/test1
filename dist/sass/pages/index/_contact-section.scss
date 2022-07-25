@@ -1,0 +1,46 @@
+.contact {
+  &__section {
+    padding: 125px 0;
+    @include r(1500) {
+      padding: 65px 0;
+    }
+  }
+  &__row {
+    padding: 0 180px 0 56px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    @include r(1500) {
+      padding: 0 20px 0 30px;
+    }
+  }
+  &__text {
+    max-width: 612px;
+    color: $white;
+    @include r(1500) {
+      max-width: 420px;
+    }
+    @include r(1000) {
+      width: 100%;
+      .h3-title {
+        margin-bottom: 24px;
+      }
+    }
+  }
+  &__form {
+    max-width: 520px;
+    width: 100%;
+    @include r(1500) {
+      max-width: 424px;
+    }
+    @include r(1000) {
+      max-width: 100%;
+    }
+    .btn__white {
+      display: block;
+      margin-top: 45px;
+      width: 100%;
+    }
+  }
+}

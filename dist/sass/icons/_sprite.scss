@@ -1,0 +1,23 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  color: currentColor;
+  line-height: 1em;
+}
+
+.icon-inst {
+  @extend %icon-inst;
+}
+.icon-telegram {
+  @extend %icon-telegram;
+}
+.icon-facebook {
+  @extend %icon-facebook;
+}
+.icon-left {
+  @extend %icon-left;
+}
+.icon-right {
+  @extend %icon-right;
+}

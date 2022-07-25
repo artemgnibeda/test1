@@ -1,0 +1,94 @@
+{% set title = 'Главная' %}
+{% extends 'layouts/layout.njk' %}
+{% block content %}
+    <div class="wrapper">
+        {% include 'components/aside.njk' %}
+        <main class="main">
+            
+            <section class="projects-slider__section">
+                <div class="js-projects-slider">
+                    <div class="project-slider__item">
+                        <div class="project-slider__info">
+                            <div class="project-slider__content">
+                                <div class="subtitle_medium">Строительство</div>
+                                <div class="h2-title">загородный Дом</div>
+                                <p>Краткое описание проекта. Мы выполняем ремонты любой сложности по готовому чертежу, при этом максимально придерживаясь проекта. Все работы проводятся по принципу «открытого чека» — с предоставлением всех счетов, без накруток и изменения цен. </p>
+                            </div>
+                        </div>
+                        <div class="project-slider__img">
+                            <img src="images/project1.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="project-slider__item">
+                        <div class="project-slider__info">
+                            <div class="project-slider__content">
+                                <div class="subtitle_medium">Строительство</div>
+                                <div class="h2-title">Пиргородный VIP Дом</div>
+                                <p>Краткое описание проекта. Мы выполняем ремонты при этом максимально придерживаясь проекта. Все работы проводятся по принципу «открытого чека» — с предоставлением всех счетов, без накруток и изменения цен. </p>
+                            </div>
+                        </div>
+                        <div class="project-slider__img">
+                            <img src="images/project2.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+                <div class="js-next-project next-project">
+                    <div class="next-project__img">
+                        <img src="images/project1.jpg" class="js-next-project-img" alt="">
+                    </div>
+                    <div class="next-project__info">
+                        <div class="next-project__title">Следующий проект</div>
+                        <div class="next-project__name js-next-project-name">Загородный дом</div>
+                    </div>
+                </div>
+                <div class="js-projects-slider-nav slider-nav"></div>
+            </section>
+
+
+            <section class="contact__section" style="background-image: url('images/contact.jpg')">
+                <div class="contact__row">
+                    <div class="contact__text">
+                        <div class="h3-title">
+                            Оставьте заявку, чтобы получить подробную консультацию
+                        </div>
+                    </div>
+                    <form class="contact__form js_validate">
+                        <div class="input__container">
+                            <input type="text" id="firstName" data-validate="text"
+                                   data-error-wrong="Недопустимые символы"
+                                   data-error-empty="Обязательное поле"
+                                   data-minsign="2"
+                                   data-maxsign="30"
+                                   placeholder="Имя"
+                                   required>
+                            <p class="text-error"></p>
+                        </div>
+                        <div class="input__container">
+                            <input type="number" id="firstName" data-validate="phone"
+                                   data-error-wrong="Недопустимые символы"
+                                   data-error-empty="Обязательное поле"
+                                   data-minsign="2"
+                                   data-maxsign="30"
+                                   placeholder="Телефон"
+                                   required>
+                            <p class="text-error"></p>
+                        </div>
+                        <div class="input__container">
+                            <select name="" id="">
+                                <option value="-1">Вид работы</option>
+                                <option value="0">Вид работы1</option>
+                                <option value="1">Вид работs2</option>
+                                <option value="2">Вид работы3</option>
+                            </select>
+                            <p class="text-error">Обязательное поле</p>
+                            <img src="images/arrow.svg" alt="">
+                        </div>
+                        <button type="submit" class="btn__white">Отправить</button>
+                    </form>
+                </div>
+            </section>
+            
+        </main>
+        {% include 'components/footer.njk' %}
+    </div>
+{% endblock %}
